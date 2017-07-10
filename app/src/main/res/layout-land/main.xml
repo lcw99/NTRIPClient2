@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<RelativeLayout android:id="@+id/RelativeLayout01" android:layout_width="fill_parent" android:layout_height="52dp">
+<TextView android:id="@+id/textFix" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:textSize="36sp" android:padding="1sp" android:text="Disconnected" android:textColor="#FFFFFF"/>
+<TextView android:id="@+id/textInfo1" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:textSize="36sp" android:padding="1sp" android:text="-" android:textColor="#FFFFFF" android:layout_centerInParent="true"></TextView>
+<TextView android:id="@+id/textInfo2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:textSize="36sp" android:padding="1sp" android:text="-" android:textColor="#FFFFFF" android:layout_alignParentRight="true" android:layout_below="@id/btnService"></TextView>
+</RelativeLayout>
+
+<RelativeLayout android:id="@+id/RelativeLayout02" android:layout_width="fill_parent" android:layout_height="wrap_content">
+<Button android:id="@+id/btnService" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Unknown" android:textSize="24sp"></Button>
+<ProgressBar android:id="@+id/progressbar" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/progressBarStyleHorizontal" android:max="4096" android:layout_toRightOf="@id/btnService" android:minHeight="40dip" android:maxHeight="40dip"></ProgressBar>
+<TextView android:id="@+id/textBytes" android:layout_width="fill_parent" android:layout_height="wrap_content" android:gravity="center_vertical|center_horizontal" android:layout_alignTop="@id/progressbar" android:layout_alignBottom="@id/progressbar" android:textSize="20sp" android:padding="2sp" android:text="0 Bytes" android:textColor="#000000"></TextView>
+</RelativeLayout>
+
+<RelativeLayout android:id="@+id/RelativeLayout04" android:layout_width="fill_parent" android:layout_height="fill_parent">
+<ScrollView android:id="@+id/svLog" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textColor="#FFFFFF">
+<TextView android:id="@+id/textLog" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:textSize="18sp" android:text="Loading..." android:textColor="#FFFFFF"/>
+</ScrollView>
+<ImageView 
+	android:id="@+id/logo_image"
+	android:src="@drawable/logo"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:scaleType="fitCenter"
+	android:layout_alignParentBottom="true"
+/>
+</RelativeLayout>
+
+</LinearLayout>

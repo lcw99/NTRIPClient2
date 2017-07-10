@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:3:2-36
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:5:2-34
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:4:2-33
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:6:2-32
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:8:2-64
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:8:19-61
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:9:2-65
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:9:19-62
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:10:2-71
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:10:19-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:12:22-76
+uses-sdk
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:14:5-73
+	android:targetSdkVersion
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:14:41-70
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:14:15-40
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:16:5-28:19
+	android:label
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:16:48-85
+	android:debuggable
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:16:86-112
+	android:icon
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:16:18-47
+activity#com.lefebure.ntripclient.MainActivity
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:18:9-23:20
+	android:label
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:18:48-80
+	android:launchMode
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:18:81-116
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.lefebure.ntripclient.EditPreferences
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:25:9-104
+	android:label
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:25:51-92
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:25:19-50
+service#com.lefebure.ntripclient.NTRIPService
+ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:27:6-54
+	android:name
+		ADDED from C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\AndroidManifest.xml:27:15-43

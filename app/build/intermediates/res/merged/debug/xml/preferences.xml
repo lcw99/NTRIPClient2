@@ -1,0 +1,144 @@
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceScreen
+			android:key="displaysettings"
+			android:title="Display Settings">
+			<ListPreference
+				android:key="info1"
+				android:title="Info Box 1"
+				android:entries="@array/info_names"
+				android:entryValues="@array/info_codes"
+				android:dialogTitle="Data in Info Box 1"
+				android:defaultValue="1"
+			/>
+			<ListPreference
+				android:key="info2"
+				android:title="Info Box 2"
+				android:entries="@array/info_names"
+				android:entryValues="@array/info_codes"
+				android:dialogTitle="Data in Info Box 2"
+				android:defaultValue="4"
+			/>
+			<CheckBoxPreference
+				android:key="keepscreenon"
+				android:title="Keep Screen On"
+			/>
+			<CheckBoxPreference
+				android:key="fixchangebeep"
+				android:title="Audio Alert on Fix Change"
+			/>
+		</PreferenceScreen>
+		<PreferenceScreen
+			android:key="receiversettings"
+			android:title="Receiver Settings">
+			<ListPreference
+				android:key="receiverconnection"
+				android:title="Receiver Connection"
+				android:entries="@array/receiverconnection_names"
+				android:entryValues="@array/receiverconnection_codes"
+				android:defaultValue="none"
+			/>
+			<EditTextPreference android:key="internaludpport"
+				android:title="Internal UDP Port"
+				android:dialogTitle="Internal UDP Port (1-65535)"
+				android:defaultValue="20000"
+			/>
+			<com.lefebure.ntripclient.BluetoothDevicePreference
+    			android:key="bluetooth_mac"
+			    android:title="Bluetooth Device"
+    			android:dialogTitle="Choose Bluetooth Device"
+    		/>
+			<ListPreference
+				android:key="bluetoothconnectionmethod"
+				android:title="Bluetooth Connection Method"
+				android:entries="@array/bluetoothconnection_names"
+				android:entryValues="@array/bluetoothconnection_codes"
+				android:defaultValue="3"
+			/>
+			<CheckBoxPreference
+				android:key="autoswitchbluetooth"
+				android:title="Auto-Enable Bluetooth"
+				android:summary="Automatically switch bluetooth on/off"
+			/>
+			<ListPreference
+				android:key="receiverautoconfig"
+				android:title="Auto-Configure Receiver"
+				android:entries="@array/autoconfig_names"
+				android:entryValues="@array/autoconfig_codes"
+				android:defaultValue="none"
+			/>
+			<EditTextPreference android:key="receiverautoconfigcommands"
+				android:title="Auto-Config Commands"
+				android:dialogTitle="Commands to send to reciever upon connection"
+				android:defaultValue="unlogall thisport"
+			/>
+			<CheckBoxPreference
+				android:key="savenmeadata"
+				android:title="Save GPS Data to File"
+				android:summary=""
+			/>
+			<CheckBoxPreference
+				android:key="savedgpsdata"
+				android:title="Save NTRIP Data to File"
+				android:summary=""
+			/>
+			<CheckBoxPreference
+				android:key="sendmocklocation"
+				android:title="GPS Mock Locations"
+				android:summary="Allow external GPS data to be used by other Android Apps."
+			/>
+		</PreferenceScreen>
+		<PreferenceScreen
+			android:key="ntripsettings"
+			android:title="NTRIP Settings">
+			<ListPreference
+				android:key="networkprotocol"
+				android:title="Network Protocol"
+				android:entries="@array/protocol_names"
+				android:entryValues="@array/protocol_codes"
+				android:defaultValue="none"
+			/>
+			<EditTextPreference android:key="ntripcasterip"
+				android:title="Caster IP"
+				android:dialogTitle="NTRIP Caster IP (x.x.x.x)"
+				android:defaultValue="165.206.203.10"
+			/>
+			<EditTextPreference android:key="ntripcasterport"
+				android:title="Caster Port"
+				android:dialogTitle="Caster Port (1-65535)"
+				android:defaultValue="10000"
+			/>
+			<EditTextPreference android:key="ntripusername"
+				android:title="Username"
+				android:dialogTitle="Your Username"
+			/>
+			<EditTextPreference android:key="ntrippassword"
+				android:title="Password"
+				android:dialogTitle="Your Password"
+			/>
+			<ListPreference
+				android:key="ntripstream"
+				android:title="Data Stream"
+				android:persistent="true"
+			/>
+			<EditTextPreference android:key="ntripsourcetable"
+				android:title="SourceTable"
+				android:dialogTitle="Direct From The Server"
+			/>
+			<ListPreference
+				android:key="ntriplocation"
+				android:title="Reported Location"
+				android:entries="@array/ntriplocation_names"
+				android:entryValues="@array/ntriplocation_codes"
+				android:defaultValue="auto"
+			/>
+			<EditTextPreference android:key="ntriplatitude"
+				android:title="Reported Latitude"
+				android:dialogTitle="-90 to 90"
+			/>
+			<EditTextPreference android:key="ntriplongitude"
+				android:title="Reported Longitude"
+				android:dialogTitle="-180 to 180"
+			/>
+		</PreferenceScreen>
+	</PreferenceScreen>

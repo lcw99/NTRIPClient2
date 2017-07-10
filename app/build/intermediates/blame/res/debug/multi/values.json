@@ -1,0 +1,373 @@
+[
+    {
+        "outputFile": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 16,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 1245,
+                        "endLine": 57,
+                        "endColumn": 16,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endLine": 19,
+                    "endColumn": 16,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 959,
+                        "endLine": 48,
+                        "endColumn": 16,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endLine": 25,
+                    "endColumn": 16,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 1,
+                        "startOffset": 2264,
+                        "endLine": 87,
+                        "endColumn": 16,
+                        "endOffset": 2401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endLine": 31,
+                    "endColumn": 16,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 1,
+                        "startOffset": 2060,
+                        "endLine": 81,
+                        "endColumn": 16,
+                        "endOffset": 2261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endLine": 45,
+                    "endColumn": 16,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 428,
+                        "endLine": 29,
+                        "endColumn": 16,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endLine": 59,
+                    "endColumn": 16,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 15,
+                        "endColumn": 16,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endLine": 63,
+                    "endColumn": 16,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 1620,
+                        "endLine": 65,
+                        "endColumn": 16,
+                        "endOffset": 1723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endLine": 67,
+                    "endColumn": 16,
+                    "endOffset": 1764
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 1509,
+                        "endLine": 61,
+                        "endColumn": 16,
+                        "endOffset": 1617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 1769,
+                    "endLine": 72,
+                    "endColumn": 16,
+                    "endOffset": 1889
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 832,
+                        "endLine": 39,
+                        "endColumn": 16,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 1894,
+                    "endLine": 77,
+                    "endColumn": 16,
+                    "endOffset": 2019
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 700,
+                        "endLine": 34,
+                        "endColumn": 16,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2024,
+                    "endLine": 82,
+                    "endColumn": 16,
+                    "endOffset": 2151
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 1926,
+                        "endLine": 75,
+                        "endColumn": 16,
+                        "endOffset": 2057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2156,
+                    "endLine": 87,
+                    "endColumn": 16,
+                    "endOffset": 2349
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 1,
+                        "startOffset": 1726,
+                        "endLine": 70,
+                        "endColumn": 16,
+                        "endOffset": 1923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 2354,
+                    "endColumn": 49,
+                    "endOffset": 2399
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2404,
+                    "endColumn": 63,
+                    "endOffset": 2463
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 99,
+                        "endColumn": 60,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2468,
+                    "endColumn": 78,
+                    "endOffset": 2542
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 160,
+                        "endColumn": 75,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2547,
+                    "endColumn": 61,
+                    "endOffset": 2604
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 238,
+                        "endColumn": 58,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2609,
+                    "endColumn": 55,
+                    "endOffset": 2660
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 362,
+                        "endColumn": 52,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2665,
+                    "endColumn": 65,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "C:\\Users\\lcw\\AndroidstudioProjects\\NTRIPClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 298,
+                        "endColumn": 62,
+                        "endOffset": 359
+                    }
+                }
+            }
+        ]
+    }
+]

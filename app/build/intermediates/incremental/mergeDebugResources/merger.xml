@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res"/><source path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\build\generated\res\rs\debug"/><source path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res"><file name="exit" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\exit.png" qualifiers="" type="drawable"/><file name="flag" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\flag.png" qualifiers="" type="drawable"/><file name="logo" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\logo.png" qualifiers="" type="drawable"/><file name="notify_list" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\notify_list.xml" qualifiers="" type="drawable"/><file name="n_d" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_d.png" qualifiers="" type="drawable"/><file name="n_e" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_e.png" qualifiers="" type="drawable"/><file name="n_f" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_f.png" qualifiers="" type="drawable"/><file name="n_g" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_g.png" qualifiers="" type="drawable"/><file name="n_m" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_m.png" qualifiers="" type="drawable"/><file name="n_n" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_n.png" qualifiers="" type="drawable"/><file name="n_p" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_p.png" qualifiers="" type="drawable"/><file name="n_r" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_r.png" qualifiers="" type="drawable"/><file name="n_s" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_s.png" qualifiers="" type="drawable"/><file name="n_w" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_w.png" qualifiers="" type="drawable"/><file name="n_x" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\n_x.png" qualifiers="" type="drawable"/><file name="settings" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable\settings.png" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\drawable-xhdpi\icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="main" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\layout-land\main.xml" qualifiers="land" type="layout"/><file path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="protocol_names">
+		<item>None</item>
+		<item>NTRIP v1.0</item>
+		<item>Raw TCP/IP</item>
+	</string-array><string-array name="info_codes">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+		<item>11</item>
+		<item>0</item>
+	</string-array><string-array name="autoconfig_codes">
+		<item>none</item>
+		<item>novateloemv</item>
+		<item>novateloemvrtcmv3</item>
+		<item>novateloemvrtcm</item>
+		<item>novateloemvcmr</item>
+		<item>novateloemvcellular</item>
+		<item>custom</item>
+	</string-array><string-array name="receiverconnection_codes">
+		<item>none</item>
+		<item>bluetooth</item>
+		<item>udp</item>
+	</string-array><string-array name="bluetoothconnection_codes">
+		<item>3</item>
+		<item>1</item>
+		<item>0</item>
+		<item>2</item>
+	</string-array><string-array name="protocol_codes">
+		<item>none</item>
+		<item>ntripv1</item>
+		<item>rawtcpip</item>
+	</string-array><string-array name="ntriplocation_codes">
+		<item>auto</item>
+		<item>manual</item>
+	</string-array><string-array name="ntriplocation_names">
+		<item>Automatic</item>
+		<item>Manual</item>
+	</string-array><string-array name="autoconfig_names">
+		<item>No Auto-Config</item>
+		<item>NovAtel OEMV</item>
+		<item>NovAtel OEMV RTCMv3</item>
+		<item>NovAtel OEMV RTCM</item>
+		<item>NovAtel OEMV CMR+</item>
+		<item>NovAtel OEMV w/Cellular</item>
+		<item>Custom</item>
+	</string-array><string-array name="receiverconnection_names">
+		<item>None (NTRIP Testing Mode)</item>
+		<item>External via Bluetooth</item>
+		<item>Internal via UDP (Development Only)</item>
+	</string-array><string-array name="info_names">
+		<item>Correction Age</item>
+		<item>Elevation (Feet)</item>
+		<item>Elevation (Meters)</item>
+		<item>Speed (MPH)</item>
+		<item>Speed (Km/h)</item>
+		<item>Heading</item>
+		<item>H-DOP</item>
+		<item>V-DOP</item>
+		<item>P-DOP</item>
+		<item>Latitude</item>
+		<item>Longitude</item>
+		<item>Nothing</item>
+	</string-array><string-array name="bluetoothconnection_names">
+		<item>Insecure (Default)</item>
+		<item>Secure</item>
+		<item>Secure via Reflection</item>
+		<item>Insecure via Reflection</item>
+	</string-array></file><file path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\values\strings.xml" qualifiers=""><string name="ld_logo_desc">Lefebure Design Logo</string><string name="app_name_settings">Lefebure NTRIP Client - Settings</string><string name="app_name">NTRIP Client</string><string name="app_name_long">Lefebure NTRIP Client</string><string name="service_started">NTRIP Service Running</string><string name="service_label">NTRIP Service</string></file><file name="preferences" path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/></source><source path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\build\generated\res\rs\debug"/><source path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\lcw\AndroidstudioProjects\NTRIPClient\app\src\debug\res"/></dataSet><mergedItems/></merger>

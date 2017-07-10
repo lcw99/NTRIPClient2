@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">NTRIP Client</string>
+	<string name="app_name_long">Lefebure NTRIP Client</string>
+	<string name="app_name_settings">Lefebure NTRIP Client - Settings</string>
+	
+	<string name="ld_logo_desc">Lefebure Design Logo</string>
+
+	<string name="service_started">NTRIP Service Running</string> 
+	<string name="service_label">NTRIP Service</string> 
+</resources>
